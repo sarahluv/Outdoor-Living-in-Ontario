@@ -1,0 +1,24 @@
+img {
+    border-style: dotted;
+    border-color: purple;
+}
+
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
+
+h2 {
+    text-shadow: 3px 2px blue;
+}
